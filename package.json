@@ -1,0 +1,14 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "iniciando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "owen yaipen",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.15.0"
+  }
+}

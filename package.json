@@ -9,6 +9,6 @@
   "author": "owen yaipen",
   "license": "ISC",
   "dependencies": {
-    "pg": "^7.15.0"
+    "pg": "^8.11.0"
   }
 }
